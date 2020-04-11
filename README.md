@@ -7,7 +7,11 @@ This is the main reference for my YouTube Channel, ExataMenteS in PT-BR
 
 [▶ Estrutura de Dados e Algoritmos em Python]()
 
+## Data Structures
+In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+Data structures have a wide and diverse scope of usage across the fields of Computer Science and Software Engineering.
 
+Data structures are the building block for any kind of software development.
 
 ### Big O Notation
 
