@@ -3,8 +3,9 @@ This repository contains Python based examples of many
 data structures and algorithms.
 
 This is the main reference for my YouTube Channel, ExataMenteS in PT-BR
-[▶ Estrutura de Dados e Algoritmos em Python]()
 
+
+[▶ Estrutura de Dados e Algoritmos em Python]()
 
 
 
