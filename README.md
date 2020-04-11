@@ -9,13 +9,13 @@ This is the main reference for my YouTube Channel, ExataMenteS in PT-BR
 
 ## Data Structures
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
-Data structures have a wide and diverse scope of usage across the fields of Computer Science and Software Engineering.
 
 Data structures are the building block for Computer Science and Software Engineering.
 
 
 ## Algorithm
-An algorithm is an unambiguous specification of how to solve a class of problems. It is a set of rules that precisely define a sequence of operations.
+In mathematics and computer science, an algorithm  is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks.
+
 
 ### Big O Notation
 
