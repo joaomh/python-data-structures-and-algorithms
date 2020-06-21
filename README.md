@@ -31,12 +31,12 @@ Below is the list of some of the most used Big O notations and their performance
 | Big O Notation | Computations for 10 elements | Computations for 100 elements | Computations for 1000 elements  |
 | -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
 | **O(1)**       | 1                            | 1                             | 1                               |
-| **O(log N)**   | 3                            | 6                             | 9                               |
-| **O(N)**       | 10                           | 100                           | 1000                            |
-| **O(N log N)** | 30                           | 600                           | 9000                            |
+| **O(log n)**   | 3                            | 6                             | 9                               |
+| **O(n)**       | 10                           | 100                           | 1000                            |
+| **O(n log n)** | 30                           | 600                           | 9000                            |
 | **O(n<sup>2</sup> )**     | 100                          | 10000                         | 1000000                         |
 | **O(2<sup>n</sup> )**     | 1024                         | 1.26e+29                      | 1.07e+301                       |
-| **O(N!)**      | 3628800                      | 9.3e+157                      | 4.02e+2567                      |
+| **O(n!)**      | 3628800                      | 9.3e+157                      | 4.02e+2567                      |
 
 ### Data Structure Operations Complexity
 
