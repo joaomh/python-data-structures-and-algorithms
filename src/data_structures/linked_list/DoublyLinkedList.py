@@ -184,6 +184,7 @@ class DoublyLinkedList:
                 print("Element not found")
 
 
+
 # Test   
 my_list = DoublyLinkedList()
 my_list.display()
