@@ -68,7 +68,18 @@ class LinkedList:
             node_data.append(current_node.data)
             current_node = current_node.next
         return node_data
-
+    # Returns the value of the node at 'index'.  
+    def get(self, index):
+        if index >= self.length() or index < 0:
+            print("ERROR: 'Get' Index out of range!")
+            return None
+        current_idx  = 0
+        current_node = self.head
+        while current_node != None:
+            if current_idx == index: 
+                return current_node.data
+            current_node  = current_node.next
+            current_idx += 1
     # reverse a linked list
     def reverse_linkedlist(self):
         previous_node = None
