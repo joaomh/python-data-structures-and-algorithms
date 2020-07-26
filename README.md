@@ -4,8 +4,10 @@ data structures and algorithms.
 
 This is the main reference for my YouTube Channel, 2001 Engenharia in PT-BR
 
-
 [▶ Estrutura de Dados e Algoritmos em Python]()
+
+Each algorithm and data structure has its own separate README
+with related explanations and links for further reading.
 
 ## Data Structures
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
