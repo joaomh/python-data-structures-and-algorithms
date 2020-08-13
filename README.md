@@ -4,7 +4,7 @@ data structures and algorithms.
 
 This is the main reference for my YouTube Channel, 2001 Engenharia in PT-BR
 
-[▶ Estrutura de Dados e Algoritmos em Python]()
+[▶ Estrutura de Dados e Algoritmos em Python](https://www.youtube.com/playlist?list=PLE1UtdMhwaEonmSRDkSzpFV5m5zKiqM94)
 
 Each algorithm and data structure has its own separate README
 with related explanations and links for further reading.
