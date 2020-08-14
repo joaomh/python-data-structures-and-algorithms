@@ -14,6 +14,26 @@ In computer science, a data structure is a data organization, management, and st
 
 Data structures are the building block for Computer Science and Software Engineering.
 
+`B` - Beginner, `A` - Advanced
+
+* `B` [Linked List](src/data-structures/linked-list)
+* `B` [Doubly Linked List](src/data-structures/linked-list)
+* `B` [Queue](src/data-structures/queue)
+* `B` [Stack](src/data-structures/stack)
+* `B` [Hash Table](src/data-structures/hash-table)
+* `B` [Heap](src/data-structures/heap)
+* `B` [Priority Queue](src/data-structures/priority-queue)
+* `B` [Dictionaries](src/data-structures/dictionaries)
+* `A` [Trie](src/data-structures/trie)
+* `A` [Tree](src/data-structures/tree)
+  * `A` [Binary Search Tree](src/data-structures/tree/binary-search-tree)
+  * `A` [AVL Tree](src/data-structures/tree/avl-tree)
+  * `A` [Red-Black Tree](src/data-structures/tree/red-black-tree)
+  * `A` [Segment Tree](src/data-structures/tree/segment-tree)
+  * `A` [Fenwick Tree](src/data-structures/tree/fenwick-tree)
+* `A` [Graph](src/data-structures/graph) 
+* `A` [Disjoint Set](src/data-structures/disjoint-set)
+* `A` [Bloom Filter](src/data-structures/bloom-filter)
 
 ## Algorithm
 In mathematics and computer science, an algorithm  is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks.
@@ -68,3 +88,15 @@ Below is the list of some of the most used Big O notations and their performance
 | **Shell sort**        | n&nbsp;log(n)   | depends on gap sequence   | n&nbsp;(log(n))<sup>2</sup>  | 1         | No         |           |
 | **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Yes       | r - biggest number in array |
 | **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Yes       | k - length of longest key |
+
+## References
+
+This project was based on 
+
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+## Supporting the project
+
+You may support this project via <3
+
+- [Patreon](patreon.com/2001engenharia).          
