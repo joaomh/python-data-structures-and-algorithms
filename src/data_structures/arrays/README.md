@@ -25,3 +25,8 @@ The term is also used, especially in the description of algorithms, to mean asso
 ### Space Complexity
 
 O(n)
+
+## Reference
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+- [GeekforGeeks](https://www.geeksforgeeks.org/array-data-structure/)
