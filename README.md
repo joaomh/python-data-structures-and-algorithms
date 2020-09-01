@@ -22,7 +22,6 @@ Data structures are the building block for Computer Science and Software Enginee
 * `B` [Queue](src/data_structures/queue)
 * `B` [Stack](src/data_structures/stack)
 * `B` [Hash Table](src/data_structures/hash-table)
-* `B` [Heap](src/data_structures/heap)
 * `B` [Priority Queue](src/data_structures/priority-queue)
 * `B` [Dictionaries](src/data_structures/dictionaries)
 * `A` [Trie](src/data_structures/trie)
