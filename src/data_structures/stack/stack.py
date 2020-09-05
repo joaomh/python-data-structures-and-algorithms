@@ -16,6 +16,12 @@ class Stack:
     def size(self):
         return len(self.items)
     
+    def peek(self):
+        # return the top element
+        if self.size() == 0:
+            return self.items[0]
+            
+
     def pop(self):
         if self.size()==0:
             return None
