@@ -35,6 +35,15 @@ Data structures are the building block for Computer Science and Software Enginee
 * `A` [Disjoint Set](src/data_structures/disjoint-set)
 * `A` [Bloom Filter](src/data_structures/bloom-filter)
 
+## Recursion 
+In computer science Recursion is a technique for solving problems where the solution to a particular problem depends on the solution to a smaller instance of the same problem.
+
+`B` - Beginner, `A` - Advanced
+
+* `B` [Introduction to Recursion](src/recursion/intro_recursion.ipynb)
+* `B` [Factorial Using Recursion](src/recursion/factorial_using_recursion.ipynb)
+* `B` [Fibonacci Using Recursion](src/recursion/fibonacci_using_recursion.ipynb)
+
 ## Algorithm
 In mathematics and computer science, an algorithm  is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks.
 
