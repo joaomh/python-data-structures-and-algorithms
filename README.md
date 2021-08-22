@@ -44,7 +44,6 @@ In computer science Recursion is a technique for solving problems where the solu
 * `B` [Factorial Using Recursion](src/recursion/factorial_using_recursion.ipynb)
 * `B` [Fibonacci Using Recursion](src/recursion/fibonacci_using_recursion.ipynb)
 
-
 ## Algorithm
 In mathematics and computer science, an algorithm  is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks.
 
