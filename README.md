@@ -104,8 +104,4 @@ This project was based on
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-## Supporting the project
-
-You may support this project via <3
-
-- [Patreon](patreon.com/2001engenharia).          
+        
